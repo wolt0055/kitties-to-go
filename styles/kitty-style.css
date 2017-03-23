@@ -16,15 +16,10 @@
     /*padding-left: 0rem;*/
     width: 100%;
     margin-left: 0px;
-    /*box-shadow: 0px 33px 33px 0px;*/
     background-color: black;
-    /*color: gray;*/
     text-align: left;
-
   }
-  /*.kitty-header p {
-    margin: 0px 0px;
-  }*/
+
 
   .header-intro-text {
     font-size: 2rem;
@@ -72,8 +67,6 @@
     padding-left: 2rem;
     color: purple;
     text-decoration: underline;
-
-    /*border-right: 2px solid #c4c4c4;*/
   }
 
   .flex-container-body {
@@ -182,7 +175,9 @@
     font-style: normal;
   }
 
-
-
+  .book-aside {
+    background-color: black;
+    color: white;
+  }
 
 </style>
