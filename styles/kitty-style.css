@@ -1,0 +1,188 @@
+<style media = "screen">
+  html {
+    font-size: 16px;
+  }
+
+  body {
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+    /*box-shadow: 20px 3px 40px 20px red;*/
+  }
+
+  .kitty-header {
+    /*font-family: 'Lato', sans-serif;*/
+    margin: 0px;
+    /*padding: 0px;*/
+    /*padding-left: 0rem;*/
+    width: 100%;
+    margin-left: 0px;
+    /*box-shadow: 0px 33px 33px 0px;*/
+    background-color: black;
+    /*color: gray;*/
+    text-align: left;
+
+  }
+  /*.kitty-header p {
+    margin: 0px 0px;
+  }*/
+
+  .header-intro-text {
+    font-size: 2rem;
+    color: #E2D7D4;
+    font-weight: lighter;
+    padding: 4rem 0 .1rem 2rem;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .header-foot-subtext {
+    font-size: 1rem;
+    padding: .4rem 0rem 1.5rem 2rem;
+    margin: 0;
+    color: #B1ABAA;
+  }
+
+  .book-cat {
+    color: red;
+    float: right;
+    /*text-align: right;  this wouldn't be correct for making href right justified*/
+    text-decoration: underline;
+    /*width: 97%;*/
+    margin: 0px 0px;
+    font-weight: lighter;
+    padding: .5rem .5rem 0px 0px;
+  }
+
+
+  .sidenav {
+    display: flex;
+    justify-content: flex-center;
+    list-style-type: none;
+    margin: 0;
+    padding: .3rem .5rem .3rem 0;
+    /*width: 0 auto;*/
+    overflow: hidden;
+    border: none;
+    background-color: #AFA5A3;
+    border-bottom: 2px solid #B7AEAC;
+  }
+  .sidenav li {
+    float: left;
+    text-align: center;
+    padding-left: 2rem;
+    color: purple;
+    text-decoration: underline;
+
+    /*border-right: 2px solid #c4c4c4;*/
+  }
+
+  .flex-container-body {
+    display: flex;
+    padding: 1rem .5rem 2rem;
+    /*max-width: 600px;*/
+    /*min-width: 400px;*/
+    /*max-height: 40rem;*/
+    font-weight: lighter;
+  }
+
+  article {
+    align: left;
+    /*width: 40%;*/
+    text-align: left;
+    padding: 1rem 1rem 0rem 1rem;
+  }
+
+  .story-testimonial h2 {
+    margin-top: .5rem;
+    margin-bottom: .3rem;
+    font-weight: lighter;
+  }
+
+  .testimonial p {
+    font-style: italic;
+  }
+
+  .kitty-bios {
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+  }
+
+  .kitty-bios h3 {
+    text-align: center;
+    padding-top: .3rem;
+    margin: 0;
+  }
+
+  .kitty-bios h5 {
+    font-weight: lighter;
+    padding: 0 0 0 .2rem;
+    margin: .5rem 0 .5rem 0;
+    max-width: 55%;
+  }
+
+  .book-now-link {
+    text-align: right;
+  }
+
+  .book-now-link2 {
+    text-align: right;
+    margin: 0 0 0 0;
+    padding: 0 .2rem 0 0;
+  }
+
+  .kitty-bios a {
+    float: right;
+    margin: 0 0 0 0;
+    font-size: .8rem;
+    padding: 0 .2rem .5rem 0;
+    text-align: right;
+    color: red;
+  }
+
+  .biscuit-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    /*padding: 0 .1rem 0 .3rem;*/
+    /*float: right;*/
+  }
+
+  img {
+    width: 10rem;
+    height: 6rem;
+    padding: .5rem 1rem 0;
+  }
+
+  .kitty-footer {
+    background-color: black;
+    font: white;
+    margin: 0;
+    width: 100%;
+    color: #B1ABAA;
+  }
+
+  .kitty-footer a {
+    color: red;
+
+  }
+
+  .kitty-footer p {
+    text-align: center;
+    margin: 0;
+    padding: .1rem 0 .1rem 0;
+
+  }
+
+  address {
+    padding: 1rem 0 1rem 1rem;
+    color: #B1ABAA;
+
+    font-style: normal;
+  }
+
+
+
+
+</style>
